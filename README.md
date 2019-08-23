@@ -29,15 +29,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
 
 1. Describe the biggest difference between `.forEach` & `.map`.
-
+for each doesnt deliver a new array, map does. 
 2. What is the difference between a function and a method?
-
+they are the same
 3. What is closure?
-
+A an intenal function or variable can be access in nested due to it being in local scope.
 4. Describe the four rules of the 'this' keyword.
-
+new, explicit,implicit,global/window
 5. Why do we need super() in an extended class?
-
+it binds prototypes and properties from parent.
 ## Project Set up
 
 Follow these steps to set up and work on your project:
